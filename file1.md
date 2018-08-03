@@ -1,10 +1,10 @@
-#Headline
+# Headline
 
 Regular sentence
-##First part
+## First part
 text
 
-###this is a list
+### this is a list
 -part 1
 -part 2
 -part 3
